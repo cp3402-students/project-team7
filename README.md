@@ -1,9 +1,9 @@
-#CP3402 Project - Team 7
+# CP3402 Project - Team 7
 
-##Overview
+## Overview
 This repo contains the theme code for our CP3402 Project. It will be made collaboratively through GitHub branches and version control, and then be used for our WordPress site.
 
-###Team Members
+### Team Members
 Amber Hogarth  
 Billy Domanti  
 Lachlan Holmes  

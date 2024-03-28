@@ -9,3 +9,15 @@ Billy Domanti
 Lachlan Holmes  
 Luca Adornetto  
 Piyush Verma  
+
+###Documentation
+Development
+Outlining the development and deployment workflow contains aspects of project management, version control, testing, and automation. Instructions on how to set up the development and deployment workflow.
+
+Theme
+Contains documentation about the U3A Online Theme. Notes about design choices, colours, themes and fonts agreed upon. Sources for theme items used.
+
+Site
+Admin features outlined for client such as adding content, plugins and how to maintain and update the site.
+
+

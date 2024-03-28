@@ -17,7 +17,7 @@ Outlining the development and deployment workflow contains aspects of project ma
 
 ### Theme
 Contains documentation about the U3A Online Theme. Notes about design choices, colours, themes and fonts agreed upon. Sources for theme items used.
-
+[Theme Documentation](Theme.md)
 ### Site
 Admin features outlined for client such as adding content, plugins and how to maintain and update the site.
 

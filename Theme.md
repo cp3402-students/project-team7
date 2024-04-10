@@ -20,11 +20,7 @@ The typography of the website aimed to include margins for the header and body s
 
 The colour scheme of the website was not changed to retain the originality of the organisation and further fulful client requirements. This allowed for the team to focus more on the development stages instead of prioritsing too much time on new and appropriate colour schemes. Furthermore, the use of contrast between the colours to make it easy to read and navigate the page that enabled for easier navigation. This can be shown through the highlight menu options to help make the site more intuitive for the user base.
 
+The visual elements used are the same as the previous client website as it promotes the educational courses for elderly people. The only change regarding this will be the image position and size as it still needs to complement the content and convery a message effectively to send a message to the target audience.
 
-visual elements
-- images placed and used
-
-navigation design
-- big font
-- nav bars and menus
+The navigation design uses clear navigation menus, search functionality, and linking structures to improve user experience.
 

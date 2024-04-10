@@ -698,6 +698,12 @@ textarea {
 	display: flex;
 }
 
+.menu-footer-menu-container ul li:hover {
+	text-decoration: underline;
+	text-decoration-color: white;
+	text-decoration-thickness: 2px;
+}
+
 .main-navigation ul {
 	display: none;
 	list-style: none;

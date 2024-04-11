@@ -1,7 +1,7 @@
 # Theme Notes
 
 ## Introduction
-All members worked collaboratively to create a new theme for the U3A Online website in WordPress. See [Development Documentation](https://github.com/cp3402-students/project-team7/blob/main/Development.md) to learn 
+All members worked collaboratively to create a new theme for the U3A Online website in WordPress. See [Development Documentation](https://github.com/cp3402-students/project-team7/blob/main/Development.md#how-to-develop-theme-updates-locally) to learn 
 how to update changes to themes locally.
 
 The majority of theme work was completed during online meetings and discussed through prototyping. See theme idea generation and documentation on [Figma](https://www.figma.com/file/ftk9FYPZKIRmzYvaOuSXYi/Untitled?type=design&node-id=3-261&mode=design&t=rs8fDlsH5ikjVJ1Q-0).

@@ -1,1 +1,11 @@
-site.md - Think about someone (perhaps the client) who already knows WordPress taking over the running of the site itself: how do they add new content – as a page or a post? In what category? You may have used a plugin for a calendar of events or something, which needs to be described. Do not recreate WordPress documentation, but clearly explain to the client’s site maintainer how this particular site is organised and can be updated.
+# Site Documentation
+
+
+## Here are ways to get involved and make a change in the community:
+- Report a bug that you find.
+- Share a theme you've built through Pull Requests.
+
+## Please follow these guidelines:
+- Solve a problem regrading features and code.
+- Make sure that your code does not introduce new bugs by testing and refining first.
+- Create a pull request that has to be verified before implementation (making sure to self test and refine yourself).

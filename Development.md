@@ -1,16 +1,17 @@
 # Development Documentation
-ABOUT
-Describe your development and deployment workflow in enough detail that a
-new team member or someone taking over the project could follow to successfully develop theme
-updates locally, then test and deploy them to your staging and live sites. This should include aspects
-such as project management, version control, testing and automation. Do not provide private details
-like passwords.
-
-## Overview
+Each group member set up a local environment version of WordPress to test childthemes on before uploading to the hosted site. Theme files could be downloaded from github and placed into the local folder to immediately change and test new themes.
 
 ## Development Environment Setup
-Local Environment[https://localwp.com/] as our theme tester
+For the creation of your local development environment:
+
+1. [Local Environment](https://localwp.com/) Download from link. Automatic WordPress installation, local sets up WordPress for you. one click and your site is ready to go, SSL included!
+
+## Repository Structure/Version Control
+We have a defined branch structure for development on themes. See [local-theme-creation](https://github.com/cp3402-students/project-team7/tree/local-theme-creation). A seperate branch is used to test themes which is commited to, and themes can be downloaded from here. 
+
+#### How to develop theme updates locally
+Download the basic theme from github, and use VSC (Visual Studio Code) to edit the stylesheets. On local hosting, press ```'go to site folder' -> app -> public -> wpcontent -> themes``` and create a folder here for your child theme. Copy the file path into VSC and any changes made here (CSS)  will automatically upload live changes on the local hosted website for theme development. Then changes can be commited to an new branch on github and merged if decided..
 
 
 
-## Version Control
+

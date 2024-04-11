@@ -22,5 +22,3 @@ Contains documentation about the U3A Online Theme. Notes about design choices, c
 Admin features outlined for client such as adding content, plugins and how to maintain and update the site.
 
 
-```markdown
-{{< Development.md >}}

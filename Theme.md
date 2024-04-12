@@ -1,17 +1,15 @@
 # Theme Notes
 
 ## Introduction
-All members worked collaboratively to create a new theme for the U3A Online website in WordPress. See [Development Documentation](https://github.com/cp3402-students/project-team7/blob/main/Development.md#how-to-develop-theme-updates-locally) to learn 
-how to update changes to themes locally.
+All members worked collaboratively to create a new theme for the U3A Online website in WordPress. See [Development Documentation](https://github.com/cp3402-students/project-team7/blob/main/Development.md#how-to-develop-theme-updates-locally) to learn how to update changes to themes locally.
 
 The majority of theme work was completed during online meetings and discussed through prototyping. See theme idea generation and documentation on [Figma](https://www.figma.com/file/ftk9FYPZKIRmzYvaOuSXYi/Untitled?type=design&node-id=3-261&mode=design&t=rs8fDlsH5ikjVJ1Q-0).
 
 When modifying or developing new themes, make sure that you are considering the key design elements listed below and maintaining flexibility and customisation options for the end user. The latest commit should be the first point of reference for site design choices. The key design elements should be repeated in future theme developments.
 
-
 ## Theme Design Elements:
 #### User Interface
-The user interface prioritises legibility by employing large font sizes ranging from 20 to 28px, specifically catering to elderly individuals who may struggle with small or poorly formatted text. Throughout the website, including the navigation bar, this emphasis on sisable text enhances readability and facilitates easy navigation of key information.
+The user interface prioritises legibility by employing the font, Segoe UI with sizes ranging from 20 to 28px, specifically catering to elderly individuals who may struggle with small or poorly formatted text. Throughout the website, including the navigation bar, this emphasis on sisable text enhances readability and facilitates easy navigation of key information.
 
 #### Information Architecture
 The information architecture is structured to facilitate efficient information retrieval. This involves the implementation of navigation bars and menu icons, enabling users to swiftly locate desired information with minimal effort.
@@ -28,16 +26,9 @@ Consistency with the visual elements of the previous client website is maintaine
 #### Navigation Design
 The navigation design is centered around enhancing user experience through clear navigation menus, intuitive search functionality, and well-defined linking structures. By prioritising user-friendly navigation, the website ensures that users can effortlessly access desired content, thereby enhanching their overall browsing experience.
 
-## Steps To Take Into Consideration When Making Changes
+## Steps To Make Changes
 ### Files to Change
-#### header.php
-#### footer.php
-#### functions.php
-#### styles.css
-
-
-
-
-
-
-
+- header.php (Applies changes to header)
+- footer.php (Applies changes to footer)
+- functions.php (Controls functionality)
+- styles.css (Controls aesthetic elements)

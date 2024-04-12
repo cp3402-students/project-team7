@@ -1,7 +1,7 @@
 # CP3402 Project - Team 7
 
 ## Overview
-This repo contains the theme code for our CP3402 Project. It will be made collaboratively through GitHub branches and version control, and then be used for our WordPress site.
+This repository contains the theme code for our CP3402 Project. It will be updated collaboratively through GitHub branches and version control, and then be used for our WordPress site for U3A online.
 
 ## Team Members
 Amber Hogarth  

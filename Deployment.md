@@ -1,5 +1,5 @@
 # Development Documentation
-Each group member set up a local environment version of WordPress to test child themes on before uploading to the hosted site. Theme files could be downloaded from github and placed into the local folder to immediately change and test new themes.
+When working on themes in this project, each group member set up a local environment version of WordPress to test child themes on before uploading to the hosted site. Theme files can be downloaded from github and placed into the local folder to immediately change and test new themes, see instructions below.
 
 ## Development Environment Setup
 For the creation of your local development environment:

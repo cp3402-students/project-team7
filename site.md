@@ -1,11 +1,32 @@
 # Site Documentation
+This documentation provides a guide on how to update and maintain the U3A Online website hosted on the WordPress platform.
 
+## Site Structure
+- **Home:** 
+- **Courses:** 
+- **Announcements:** 
+- **Discussions:** 
+- **About:**
+- **Gems:**
+- **Links:**
+- **Profile** Login/Logout. All pages except homepage require a login to display content.
 
-## Here are ways to get involved and make a change in the community:
-- Report a bug that you find.
-- Share a theme you've built through Pull Requests.
+## Adding content
+Login to WordPress dashboard (See administrator for credentials).
 
-## Please follow these guidelines:
-- Solve a problem regrading features and code.
-- Make sure that your code does not introduce new bugs by testing and refining first.
-- Create a pull request that has to be verified before implementation (making sure to self test and refine yourself).
+**Adding a New Page:** Go to the "Pages" section on the left-hand menu and click on "Add New Page". Enter the page title and content, do not select page attributes or parent class. click "Publish".
+
+**Adding a New Post:** Posts are used for the courses content of the website. To add a new post, Go to the "Posts" section on the left-hand menu and click on "Add New Page". Enter the post title, content, and any relevant media. Select the appropriate categories as an "Independant Post" and click "Publish".
+
+## Website Plugins
+This website uses the following plugins to enhance functionality:
+
+- `bbPress` - used to make our discussion forums page.
+- `Content Views` - used to add more ways to display posts (eg. post only specific posts on a page, rather than post all)
+- `Ultimate Member` - used to give different user roles different permissions to view pages (eg, non-members can't view discussions page, and there are different home pages for members vs non-members).
+- `WPForms Lite` - used to create forms, such as 'Contact Us' form.
+
+Please be cautious of adding new plugins, without proper maitenance they could pose risks to the website such as compatibility and security issues. They can also negatively affect performance. Please seek advice from website administrators.
+
+By following these guidelines, you should be able to successfully update and maintain the website as well as add content.
+

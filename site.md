@@ -2,13 +2,13 @@
 This documentation provides a guide on how to update and maintain the U3A Online website hosted on the WordPress platform.
 
 ## Site Structure
-- **Home:** 
-- **Courses:** 
-- **Announcements:** 
-- **Discussions:** 
-- **About:**
-- **Gems:**
-- **Links:**
+- **Home:** Landing page, can be viewed without login to understand what website is about, has 3 main CTA's.
+- **Courses:** General information about all courses -> **Independant Courses** Contains posts about courses -> **Courses with a Leader** has more posts about courses.
+- **Announcements:** Updatable forum with news 
+- **Discussions:** Community and help forum with links to social media
+- **About:** Information about U3A online as a uni -> **Find a U3A** Contains links to locations within Australia of campuses.
+- **Gems:** To subscribe to the monthly newsletter
+- **Links:** Futher relevant links
 - **Profile** Login/Logout. All pages except homepage require a login to display content.
 
 ## Adding content

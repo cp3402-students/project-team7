@@ -2,7 +2,7 @@
 
 ## Introduction
 The development and deployment workflow steps below will allow future developers and site maintainers to:
-- Develop theme updates
+- Update developed themes locally
 - Test and deploy updates to staging and live sites
 
 These steps will be incorporated through discussions of:
@@ -10,4 +10,7 @@ These steps will be incorporated through discussions of:
 - Version control
 - Testing and automation
 
+### Update Developed Themes Locally
+
+### Test and Deploy Updates
 

@@ -77,15 +77,15 @@ html {
 /**
  * Remove the margin in all browsers.
  */
-body {
+.page {
 	margin: 0;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
 }
 
-/**
- * Render the `main` element consistently in IE.
- */
 main {
-	display: block;
+	flex-grow: 1;
 }
 
 /**
@@ -94,7 +94,7 @@ main {
  */
 h1 {
 	font-size: 2em;
-	margin: 0.67em 0;
+	margin: auto;
 }
 
 /* Grouping content
@@ -417,10 +417,6 @@ h6 {
 	clear: both;
 }
 
-p {
-	margin-bottom: 1.5em;
-}
-
 dfn,
 cite,
 em,
@@ -489,12 +485,16 @@ header {
 	margin-right: auto; /* Push branding to the far left */
 }
 
+.site-title, .entry-title {
+	display: none;
+}
+
 body {
 	background-color: white;
 }
 
 main, aside {
-	margin: 2% 10% 5%;
+	margin: 2% 10% 0;
 }
 
 
@@ -705,7 +705,7 @@ textarea {
 }
 
 .main-navigation ul {
-	display: none;
+	display: block;
 	list-style: none;
 	margin: 0;
 	padding-left: 0;
@@ -719,6 +719,7 @@ textarea {
 	top: 100%;
 	left: -999em;
 	z-index: 99999;
+	display: block;
 }
 
 .main-navigation ul ul ul {
@@ -743,6 +744,7 @@ textarea {
 
 .main-navigation li {
 	position: relative;
+	display: block;
 }
 
 .main-navigation a {
@@ -754,6 +756,10 @@ textarea {
 	font-weight: bold;
 	font-size: larger;
 	color: white;
+}
+
+.main-navigation ul li ul {
+	background-color: #042848;
 }
 
 .footer-navigation a {
@@ -782,6 +788,7 @@ textarea {
 .menu-toggle,
 .main-navigation.toggled ul {
 	display: block;
+	background-color: purple;
 }
 
 @media screen and (min-width: 37.5em) {

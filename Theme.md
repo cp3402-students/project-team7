@@ -28,7 +28,12 @@ Consistency with the visual elements of the previous client website is maintaine
 #### Navigation Design
 The navigation design is centered around enhancing user experience through clear navigation menus, intuitive search functionality, and well-defined linking structures. By prioritising user-friendly navigation, the website ensures that users can effortlessly access desired content, thereby enhanching their overall browsing experience.
 
-
+## Steps To Take Into Consideration When Making Changes
+### Files to Change
+#### header.php
+#### footer.php
+#### functions.php
+#### styles.css
 
 
 

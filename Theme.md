@@ -11,22 +11,22 @@ When modifying or developing new themes, make sure that you are considering the 
 
 ## Theme Design Elements:
 #### User Interface
-The user interface uses large font that further targets accessibility of elderly individuals who struggle to read small and poorly formatted text. The use of large font througout the website is also implemented in the navigation bar for the target audience to navigate and find the information they need without hesitation. The interface is also simple for useability.
+The user interface prioritises legibility by employing large font sizes ranging from 20 to 28px, specifically catering to elderly individuals who may struggle with small or poorly formatted text. Throughout the website, including the navigation bar, this emphasis on sisable text enhances readability and facilitates easy navigation of key information.
 
 #### Information Architecture
-The architecture of the information consists of organising and structuring the website throygh the use of navigation bars and menu icons to promote to help users find information quickly and effectively. 
+The information architecture is structured to facilitate efficient information retrieval. This involves the implementation of navigation bars and menu icons, enabling users to swiftly locate desired information with minimal effort.
 
 #### Typography
-The typography of the website aimed to include margins for the header and body so the content does not get displayed on the borders of the page. This will allow for the page look more appealing and organised as the use of whitespace will allow for appropriate structure of the content. Additionally, the use of hover buttons further extends the readability alongside the visual appeal by highling to the target audience what section they are hovering over in the navigation bar.
+The typography choices are made with consideration to enhance the visual appeal and readability of the content. Ample margins are allotted for headers and body text, preventing content from appearing crowded against the page borders. This utilisation of whitespace contributes to a more organised and aesthetically pleasing layout. Additionally, the incorporation of hover effects on buttons further enhances readability and user engagement, providing clear visual cues as users interact with navigation elements.
 
 #### Colour Scheme
-The colour scheme of the website was not changed to retain the originality of the organisation and further fulful client requirements. This allowed for the team to focus more on the development stages instead of prioritsing too much time on new and appropriate colour schemes. Furthermore, the use of contrast between the colours to make it easy to read and navigate the page that enabled for easier navigation. This can be shown through the highlight menu options to help make the site more intuitive for the user base.
+While the colour scheme remains unchanged to preserve the organisational identity and meet client specifications, careful attention is paid to optimising contrast for improved readability and navigation. This includes utilising contrasting colours to enhance legibility and employing highlighted menu options to facilitate intuitive navigation for users.
 
 #### Visual Elements
-The visual elements used are the same as the previous client website as it promotes the educational courses for elderly people. The only change regarding this will be the image position and size as it still needs to complement the content and convery a message effectively to send a message to the target audience.
+Consistency with the visual elements of the previous client website is maintained, focusing on promoting educational courses tailored for elderly individuals. However, adjustments in image positioning and sizing are made to ensure seamless integration with content while effectively conveying the intended message to the target audience.
 
 #### Navigation Design
-The navigation design uses clear navigation menus, search functionality, and linking structures to improve user experience. 
+The navigation design is centered around enhancing user experience through clear navigation menus, intuitive search functionality, and well-defined linking structures. By prioritising user-friendly navigation, the website ensures that users can effortlessly access desired content, thereby enhanching their overall browsing experience.
 
 
 

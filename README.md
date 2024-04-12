@@ -12,7 +12,7 @@ Piyush Verma
 
 ## Documentation
 ### Deployment
-Describes development and deloyment workflow in detail to allow new users to successfully develop a theme. These development features include being able to update locally, then test and deploy to staging and live sites. Furthermore, this documentation outlines project management, version control, testing and automation (excluding passwords). 
+Describes development and deloyment workflow in detail to allow new users to successfully develop a theme. These development features include being able to update locally, then test and deploy to staging and live sites. Furthermore, this documentation outlines project management, version control, testing and automation. 
 [Deployment Documentation](Deployment.md)
 
 ### Theme

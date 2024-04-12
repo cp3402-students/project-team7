@@ -20,9 +20,9 @@ Contains documentation about the U3A Online Theme to help new developers. Outlin
 [Theme Documentation](Theme.md)
 ### Deployment
 Describes development and development workflow in detail to allow new users to successfully develop a theme. These development features include being able to update locally, then test and deploy to staging and live sites. Furthermore, this documentation outlines project management, version control, testing and automation (excluding passwords). 
-[Deployment Documentation](Documentation.md)
+[Deployment Documentation](deployment.md)
 ### Site
 Admin features outlined for client such as adding content, plugins and how to maintain and update the site.
-[Site Documentation](Site.md)
+[Site Documentation](site.md)
 
 
